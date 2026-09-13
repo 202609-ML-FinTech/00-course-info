@@ -21,6 +21,9 @@ not here. This repository is public, so it carries teaching materials only.
 
 ## Journal Ranking
 
+**[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into
+finance, operations research, and computer science, with links and NSTC tiers.
+
 1) Go to the [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN.
 
 See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
