@@ -2,6 +2,11 @@
 
 ML & FinTech · 115-1 · last updated 20260914
 
+> **Looking up impact factors and quartiles.** Journal Citation Reports (JCR) is available
+> through the NYCU library subscription. First connect to the NYCU VPN (FortiClient), then open
+> [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&referrer=target%3Dhttps:%2F%2Fjcr.clarivate.com%2Fjcr%2Fhome&Init=Yes&authCode=null&SrcApp=IC2LS)
+> and search for the journal by name.
+
 Your project replicates a high-quality paper. Part of doing that well is knowing **where work
 like yours gets published**, because the outlet tells you what a field expects: how long the
 paper is, how much theory it wants, whether code and data are required, and what counts as a
@@ -19,7 +24,7 @@ means the journal is an OR or CS outlet, and those are ranked elsewhere.
 
 **Impact factor and quartile are deliberately not listed here.** They change every year, and a
 stale number is worse than none when you are choosing where to submit. Look them up in Journal
-Citation Reports through the NYCU VPN — see `journalranking.md` in this repository.
+Citation Reports through the NYCU VPN — see the note at the top of this page.
 
 ---
 
@@ -40,14 +45,13 @@ Papers here lead with an economic question. The model is a tool, and a referee w
 | Finance and Stochastics | ATier-2 | https://link.springer.com/journal/780 |
 | Journal of Risk | B+ | https://www.risk.net/journal-of-risk |
 | Financial Innovation | — | https://jfin-swufe.springeropen.com/ |
-| Digital Finance | — | https://link.springer.com/journal/42521 |
 | Computational Economics | — | https://link.springer.com/journal/10614 |
 | Insurance: Mathematics and Economics (IME) | — | https://www.sciencedirect.com/journal/insurance-mathematics-and-economics |
 
 **Where to start.** FRL is the usual first target for a short empirical finance paper: it is
 deliberately brief, turnaround is fast, and it publishes a lot of ML-in-finance work. NAJEF,
-IRFA and IREF take longer papers. Financial Innovation and Digital Finance are the journals
-built specifically for FinTech, and both are open access.
+IRFA and IREF take longer papers. Financial Innovation is a journal built specifically for
+FinTech, and it is open access.
 
 ## 2. Operations research, with a finance stream
 
