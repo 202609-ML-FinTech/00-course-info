@@ -6,6 +6,9 @@ Department of Information Management and Finance, National Yang Ming Chiao Tung 
 Public course materials for the course. Student repositories live in this same
 organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 
+✅ [Google form to collect github info](https://docs.google.com/spreadsheets/d/1GCOm4p9UHnkvxIypEKqLpNYMcwCQtH8mhcFS0QIZDEc/edit?usp=sharing)
+
+
 ## Contents
 
 | Folder | Holds |
