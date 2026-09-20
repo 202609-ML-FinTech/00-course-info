@@ -8,7 +8,6 @@ organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 
 ✅ [Google form to collect github info](https://docs.google.com/spreadsheets/d/1GCOm4p9UHnkvxIypEKqLpNYMcwCQtH8mhcFS0QIZDEc/edit?usp=sharing)
 
-
 ## Contents
 
 | Folder | Holds |
@@ -18,45 +17,38 @@ organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 | `homework/` | Homework assignments, `HW-mmdd.md` |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
 
-## Course links
+## E3
 
-The sign-up sheet, the course plan spreadsheet, and grade records are posted on **E3**,
+The grade records are posted on **E3**,
 not here. This repository is public, so it carries teaching materials only.
 
 ## Journal Ranking
 
-**[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into
-finance, operations research, and computer science, with links and NSTC tiers.
+- **[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into finance, operations research, and computer science, with links and NSTC tiers. 
+- Go to the [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN.
+- See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
 
-1) Go to the [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN.
 
-See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
+## Repo organization 
 
-## 20260907 — Week 1
 
-- **5 min** — FMS and the topic of a paper.
-- **10 min** — Set up your GitHub account and fill in your information in the sign-up sheet posted on E3.
-- **10 min** — Design your FMS slides and upload them to the [Google Drive folder](https://drive.google.com/drive/folders/1OS2a4swz2FfiPXWjLn2di5DQFn5AKYqa?usp=sharing), named `<STUDENTID>-<NICKNAME>.pdf` (example: `415707006-Jerry.pdf`).
+## Replicating a paper
+
+### Snapshots
+
+1. Instruction and [a template](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) on the manuscript.
+2. Instruction and [a template](https://canva.link/jxzpkchh1kw5qpt) on the slides. 
+
+
+
+## In-Class exercise
+
+
+— Week 1: 20260907. Design your FMS slides and upload them to the [Google Drive folder](https://drive.google.com/drive/folders/1OS2a4swz2FfiPXWjLn2di5DQFn5AKYqa?usp=sharing), named `<STUDENTID>-<NICKNAME>.pdf` (example: `415707006-Jerry.pdf`).
+- Week 2: Full instructions: **[](in-class-exercise/IC-0914.ipynb)
 
 ## Homework
 
-### 0914
+- Homework will be assigned on a weekly basis. Due in seven days (23:00)
+- Week 2: Full instructions: **[homework/HW-0914.md](homework/HW-0914.md)**
 
-Full instructions: **[homework/HW-0914.md](homework/HW-0914.md)**
-
-From *An Introduction to Statistical Learning with Applications in Python* (ISLP), §2.4 Exercises.
-
-| Q | Type | What to submit |
-|---|---|---|
-| **2** | Conceptual | For each scenario: classification or regression, inference or prediction, and the values of *n* and *p* |
-| **3** | Conceptual | (a) A hand-drawn sketch of the five curves. (b) A short paragraph per curve explaining its shape |
-| **7** | By hand | The Euclidean distances, the K = 1 and K = 3 predictions with reasons, and part (d) |
-| **8** | Applied | The `College` data EDA, parts (a)–(h) |
-
-Notes:
-
-- **Q3(a) must be drawn by hand and photographed.** A generated or copied figure earns no marks. Part (b) is where most of the credit sits.
-- **Q8(h) carries most of the weight of Q8.** State one claim about the data that could be wrong, and include the one figure that supports it. A tour of `describe()` output is not a finding.
-- You may use any AI tool. What is graded is your judgement, not your syntax.
-
-Due: to be announced on E3.
