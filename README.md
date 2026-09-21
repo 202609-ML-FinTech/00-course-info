@@ -6,8 +6,6 @@ Department of Information Management and Finance, National Yang Ming Chiao Tung 
 Public course materials for the course. Student repositories live in this same
 organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 
-✅ [Google form to collect github info](https://docs.google.com/spreadsheets/d/1GCOm4p9UHnkvxIypEKqLpNYMcwCQtH8mhcFS0QIZDEc/edit?usp=sharing)
-
 ## Textbook
 
 James, Witten, Hastie, Tibshirani & Taylor, *An Introduction to Statistical Learning with Applications in Python* (ISLP), Springer, 2023.
