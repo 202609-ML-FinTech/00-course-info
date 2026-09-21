@@ -64,7 +64,9 @@ not here. This repository is public, so it carries teaching materials only.
 ### Snapshots
 
 1. Instruction and [a template](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) on the manuscript.
-2. Instruction and [a template](https://canva.link/jxzpkchh1kw5qpt) on the slides. 
+2. Instruction and [a template](https://canva.link/jxzpkchh1kw5qpt) on the slides.
+
+[Try again](https://canva.link/jxzpkchh1kw5qpt)
 
 
 
