@@ -84,4 +84,5 @@ Each in-class exercise is due at **12:10 on the day of class**.
 Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**.
 
 - Week 2 (09/14): **[homework/HW-0914.md](homework/HW-0914.md)** — due 09/21 23:59.
+- Week 3 (09/21): **[homework/HW-0921.md](homework/HW-0921.md)** — due 09/28 23:59.
 
