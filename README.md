@@ -70,6 +70,10 @@ Replicate one high-quality paper, individually, and deliver a manuscript and sli
 | **R3** | Benchmark model and experiment design, including ablation studies | Mon **11/09**, 23:59 |
 | **R4** | Empirical analysis and conclusion | Mon **11/30**, 23:59 |
 
+### Data
+
+- **[wrds-guide.md](wrds-guide.md)** — how to get an NYCU WRDS account and download data (CRSP, Compustat and more). Apply early: R2 is due 10/19.
+
 ### Templates
 
 1. Manuscript — [Overleaf template](https://www.overleaf.com/read/gxnsffrpqgmj#145baa).
