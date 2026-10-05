@@ -84,6 +84,7 @@ Each in-class exercise is due at **12:10 on the day of class**.
 - Week 1 (09/07): Design your FMS slides and upload them to the [Google Drive folder](https://drive.google.com/drive/folders/1OS2a4swz2FfiPXWjLn2di5DQFn5AKYqa?usp=sharing), named `<STUDENTID>-<NICKNAME>.pdf` (example: `415707006-Jerry.pdf`). Due 09/07 12:10.
 - Week 2 (09/14): **[in-class-exercise/IC-0914.ipynb](in-class-exercise/IC-0914.ipynb)** — due 09/14 12:10.
 - Week 3 (09/21): **[in-class-exercise/IC-0921.ipynb](in-class-exercise/IC-0921.ipynb)** — due 09/21 12:10.
+- Week 5 (10/05): **[in-class-exercise/IC-1005.ipynb](in-class-exercise/IC-1005.ipynb)** — due 10/05 12:10.
 
 ## Homework
 
