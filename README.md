@@ -13,33 +13,19 @@ James, Witten, Hastie, Tibshirani & Taylor, *An Introduction to Statistical Lear
 - **[Download the PDF](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)** — free, from the authors.
 - [Book website](https://www.statlearning.com/) · [Python labs, data and code](https://www.statlearning.com/resources-python)
 
-## Grading
+## Syllabus and grading
 
-| Category | Weight | Component | Due |
-|---|---|---|---|
-| **Participation** | 20% | In-class exercise, on your laptop or a handwritten sheet (13%) | Day of class, **12:10** |
-| | | Presentations: MFS, R1, R2, R3, R4 — see the individual project (4%) | In class |
-| | | Homework (3%) | 7 days after it is assigned, **23:59** |
-| **Exam** | 50% | In class. One A4 formula sheet is allowed | — |
-| **Individual project** | 30% | Replicate a high-quality paper, individually. Submit slides and a manuscript | See below |
-| **Total** | **100%** | | |
-
-### Individual project milestones
-
-| Milestone | Content | Due |
-|---|---|---|
-| **R1** | Topic: introduce the paper, its motivation, and how it connects to your personal interests | Mon **10/05**, 23:59 |
-| **R2** | Data: raw data, descriptions, EDA, and more | Mon **10/19**, 23:59 |
-| **R3** | Benchmark model and experiment design, including ablation studies | Mon **11/09**, 23:59 |
-| **R4** | Empirical analysis and conclusion | Mon **11/30**, 23:59 |
+The grading policy is in the course syllabus on the NYCU course system:
+**[202609-Machine-Learning-and-FinTech](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=537707&lang=en-us)**.
 
 ## Contents
 
 | Folder | Holds |
 |---|---|
 | `slides/` | Lecture slides, `yyyymmdd` prefixed |
-| `in-class-exercise/` | In-class exercise worksheets |
+| `in-class-exercise/` | In-class exercise worksheets and their data |
 | `homework/` | Homework assignments, `HW-mmdd.md` |
+| `python-cheatsheets/` | Python, NumPy and pandas cheat sheets |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
 
 ## E3
@@ -54,19 +40,41 @@ not here. This repository is public, so it carries teaching materials only.
 - See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
 
 
-## Repo organization 
+## Repo organization
 
+Your own repository is `<STUDENTID>-<NICKNAME>`, private, in this organization.
+Start it from **[00-repo-template](https://github.com/202609-ML-FinTech/00-repo-template)**
+("Use this template"), which gives you the folders below. Its README has the full rules.
+
+| Folder | What goes in it |
+|---|---|
+| `homework/<mmdd>/` | One folder per homework, named by the date it was assigned |
+| `in-class-exercise/<mmdd>/` | One folder per class |
+| `replicating-a-paper/data/rawdata/` | Data exactly as downloaded — never edited |
+| `replicating-a-paper/data/processed-data/` | What your code produces from rawdata |
+| `replicating-a-paper/coding/` | Notebooks and scripts |
+| `replicating-a-paper/_snapshots/` | The paper you are replicating, and its slides |
+
+The commit timestamp is your submission time. A file saved but not pushed is not submitted.
 
 ## Replicating a paper
 
-### Snapshots
+Replicate one high-quality paper, individually, and deliver a manuscript and slides.
 
-1. Instruction and [a template](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) on the manuscript.
-2. Instruction and [a template](https://canva.link/jxzpkchh1kw5qpt) on the slides.
+### Milestones
 
-[Try again](https://canva.link/jxzpkchh1kw5qpt)
+| Milestone | Content | Due |
+|---|---|---|
+| **R1** | Topic: introduce the paper, its motivation, and how it connects to your personal interests | Mon **10/05**, 23:59 |
+| **R2** | Data: raw data, descriptions, EDA, and more | Mon **10/19**, 23:59 |
+| **R3** | Benchmark model and experiment design, including ablation studies | Mon **11/09**, 23:59 |
+| **R4** | Empirical analysis and conclusion | Mon **11/30**, 23:59 |
 
+### Templates
 
+1. Manuscript — [Overleaf template](https://www.overleaf.com/read/gxnsffrpqgmj#145baa).
+2. Slides — [Canva template](https://canva.link/jxzpkchh1kw5qpt), or
+   **[20260920-template-ML&FinTech.pptx](20260920-template-ML&FinTech.pptx)** in this repository.
 
 ## In-Class exercise
 
