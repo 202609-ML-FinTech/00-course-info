@@ -89,6 +89,7 @@ Each in-class exercise is due at **12:10 on the day of class**.
 - Week 2 (09/14): **[in-class-exercise/IC-0914.ipynb](in-class-exercise/IC-0914.ipynb)** — due 09/14 12:10.
 - Week 3 (09/21): **[in-class-exercise/IC-0921.ipynb](in-class-exercise/IC-0921.ipynb)** — due 09/21 12:10.
 - Week 5 (10/05): **[in-class-exercise/IC-1005.ipynb](in-class-exercise/IC-1005.ipynb)** — due 10/05 12:10.
+- Week 6 (10/12): **[in-class-exercise/IC-1012.ipynb](in-class-exercise/IC-1012.ipynb)** — due 10/12 12:10.
 
 ## Homework
 
