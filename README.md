@@ -4,7 +4,7 @@ Machine Learning and FinTech · 115-1 · Prof. Huei-Wen Teng
 Department of Information Management and Finance, National Yang Ming Chiao Tung University
 
 Public course materials for the course. Student repositories live in this same
-organization, one per student, named `<STUDENTID>-<NICKNAME>`.
+organization, one per student, named `<STUDENTID>-<NICKNAME>`: see **[list-of-repo.md](list-of-repo.md)**.
 
 ## Syllabus and grading
 
