@@ -79,22 +79,6 @@ Replicate one high-quality paper, individually, and deliver a manuscript and sli
 2. Slides — [Canva template](https://canva.link/jxzpkchh1kw5qpt), or
    **[20260920-template-ML&FinTech.pptx](20260920-template-ML&FinTech.pptx)** in this repository.
 
-## In-Class exercise
-
-Each in-class exercise is due at **12:10 on the day of class**.
-
-- Week 1 (09/07): Design your FMS slides and upload them to the [Google Drive folder](https://drive.google.com/drive/folders/1OS2a4swz2FfiPXWjLn2di5DQFn5AKYqa?usp=sharing), named `<STUDENTID>-<NICKNAME>.pdf` (example: `415707006-Jerry.pdf`). Due 09/07 12:10.
-- Week 2 (09/14): **[in-class-exercise/IC-0914.ipynb](in-class-exercise/IC-0914.ipynb)** — due 09/14 12:10.
-- Week 3 (09/21): **[in-class-exercise/IC-0921.ipynb](in-class-exercise/IC-0921.ipynb)** — due 09/21 12:10.
-- Week 5 (10/05): **[in-class-exercise/IC-1005.ipynb](in-class-exercise/IC-1005.ipynb)** — due 10/05 12:10.
-- Week 6 (10/12): **[in-class-exercise/IC-1012.ipynb](in-class-exercise/IC-1012.ipynb)** — due 10/12 12:10.
-- Week 7 (10/19): **[in-class-exercise/IC-1019.ipynb](in-class-exercise/IC-1019.ipynb)** — due 10/19 12:10.
-- Week 9 (11/02): **[in-class-exercise/IC-1102.ipynb](in-class-exercise/IC-1102.ipynb)** — due 11/02 12:10.
-- Week 10 (11/09): **[in-class-exercise/IC-1109.ipynb](in-class-exercise/IC-1109.ipynb)** — due 11/09 12:10.
-- Week 11 (11/16): **[in-class-exercise/IC-1116.ipynb](in-class-exercise/IC-1116.ipynb)** — due 11/16 12:10.
-- Week 12 (11/23): **[in-class-exercise/IC-1123.ipynb](in-class-exercise/IC-1123.ipynb)** — due 11/23 12:10.
-- Week 13 (11/30): **[in-class-exercise/IC-1130.ipynb](in-class-exercise/IC-1130.ipynb)** — due 11/30 12:10.
-
 ## Homework
 
 Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**.
