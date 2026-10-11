@@ -110,4 +110,5 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 - Week 11 (11/16): **[homework/HW-1116.md](homework/HW-1116.md)** — due 11/23 23:59.
 - Week 12 (11/23): **[homework/HW-1123.md](homework/HW-1123.md)** — due 11/30 23:59.
 - Week 13 (11/30): **[homework/HW-1130.md](homework/HW-1130.md)** — due 12/07 23:59.
+- Week 14 (12/07): **[homework/HW-1207.md](homework/HW-1207.md)** — due 12/14 23:59.
 
