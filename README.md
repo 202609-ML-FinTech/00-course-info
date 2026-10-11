@@ -6,17 +6,17 @@ Department of Information Management and Finance, National Yang Ming Chiao Tung 
 Public course materials for the course. Student repositories live in this same
 organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 
+## Syllabus and grading
+
+The grading policy is in the course syllabus on the NYCU course system:
+**[202609-Machine-Learning-and-FinTech](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=537707&lang=en-us)**.
+
 ## Textbook
 
 James, Witten, Hastie, Tibshirani & Taylor, *An Introduction to Statistical Learning with Applications in Python* (ISLP), Springer, 2023.
 
 - **[Download the PDF](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)** — free, from the authors.
 - [Book website](https://www.statlearning.com/) · [Python labs, data and code](https://www.statlearning.com/resources-python)
-
-## Syllabus and grading
-
-The grading policy is in the course syllabus on the NYCU course system:
-**[202609-Machine-Learning-and-FinTech](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=537707&lang=en-us)**.
 
 ## Contents
 
@@ -38,7 +38,6 @@ not here. This repository is public, so it carries teaching materials only.
 - **[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into finance, operations research, and computer science, with links and NSTC tiers. 
 - Go to the [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN.
 - See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
-
 
 ## Repo organization
 
@@ -81,7 +80,6 @@ Replicate one high-quality paper, individually, and deliver a manuscript and sli
    **[20260920-template-ML&FinTech.pptx](20260920-template-ML&FinTech.pptx)** in this repository.
 
 ## In-Class exercise
-
 
 Each in-class exercise is due at **12:10 on the day of class**.
 
