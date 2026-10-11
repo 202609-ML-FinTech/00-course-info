@@ -42,11 +42,10 @@ Replicate one high-quality paper, individually, and deliver a manuscript and sli
 ### Journal Ranking
 
 Your selected paper must be from a journal from:
-(a) the SCIE/SSCI list <br> 
-(b) the list in **[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into finance, operations research, and computer science, with links and NSTC tiers <br>
-(c) journals listed in the folder `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
+- the SCIE/SSCI list; check [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN for SCIE/SSCI edition)
+- the list in **[journals-to-consider.md](journals-to-consider.md)** — journals for your project, grouped into finance, operations research, and computer science, with links and NSTC tiers <br>
+- journals listed in the folder `journal-ranking/` for the NSTC 財會學門財務領域 tier report and related lists.
  
-- To check if it is an SSCI/SCIE jouranl, go to the [Journal Citation Reports](https://jcr.clarivate.com/jcr/home) through the NYCU VPN.
 
 ### Repo organization
 
