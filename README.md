@@ -103,4 +103,5 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 
 - Week 2 (09/14): **[homework/HW-0914.md](homework/HW-0914.md)** — due 09/21 23:59.
 - Week 3 (09/21): **[homework/HW-0921.md](homework/HW-0921.md)** — due 09/28 23:59.
+- Week 6 (10/12): **[homework/HW-1012.md](homework/HW-1012.md)** — due 10/19 23:59.
 
