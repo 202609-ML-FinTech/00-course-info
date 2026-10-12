@@ -83,7 +83,9 @@ The commit timestamp is your submission time. A file saved but not pushed is not
 2. Slides — [Canva template](https://canva.link/jxzpkchh1kw5qpt), or
    **[20260920-template-ML&FinTech.pptx](20260920-template-ML&FinTech.pptx)** in this repository.
 
-## Homework
+## Grading details 
+
+### Homework (10%, 1% each)
 
 Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**.
 
@@ -97,4 +99,38 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 - Week 12 (11/23): **[homework/HW-1123.md](homework/HW-1123.md)** — due 11/30 23:59.
 - Week 13 (11/30): **[homework/HW-1130.md](homework/HW-1130.md)** — due 12/07 23:59.
 - Week 14 (12/07): **[homework/HW-1207.md](homework/HW-1207.md)** — due 12/14 23:59.
+
+### In-Class exercise (10%, 1% each)
+
+```markdown
+| Week | Date | In-class exercise |
+|---|---|---|
+| 1 | 09/07 | MFS slides (design, upload to the Drive folder) |
+| 2 | 09/14 | IC-0914: Python & EDA on the credit-default data, two parts |
+| 3 | 09/21 | IC-0921: How diversified is your client, really? |
+| 4 | 09/28 | no class (教師節) |
+| 5 | 10/05 | IC-1005: Is this portfolio really two bets? |
+| 6 | 10/12 | IC-1012: Is the manager's alpha real? |
+| 7 | 10/19 | IC-1019: Approve this card? |
+| 8 | 10/26 | no class (光復節補假) |
+| 9 | 11/02 | IC-1102: Which cutoff? |
+| 10 | 11/09 | IC-1109: Logistic or LDA? |
+| 11 | 11/16 | IC-1116: Is the backtest honest? |
+| 12 | 11/23 | IC-1123: Which of 40 factors do we keep? |
+| 13 | 11/30 | IC-1130: Explain the rejection |
+| 14 | 12/07 | no in-class exercise (R4 Q&A) |
+| 15 | 12/14 | no in-class exercise (homework clinic) |
+| 16 | 12/21 | Exam |
+```
+
+### Replicating a paper (30%) 
+
+- MFS (3%)
+- Fitness of the paper (2%)
+- R1 (5%)
+- R2 (5%)
+- R3 (5%)
+- R4 (5%)
+- Cold calls presentations (5%) 
+
 
