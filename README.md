@@ -117,8 +117,8 @@ In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to
 ### Replicating a paper (30%) 
 
 - MFS (3%)
-- Fitness of the paper (2%)
-- R1 (5%)
+- Fitness of the paper (2%): Ranking (35%), Finance (35%), Machine Learinng (30%) 
+- R1 (5%): Manuscript (25%), Slides (25%), title, abstract, keywords, JEL codes, Motivations  
 - R2 (5%)
 - R3 (5%)
 - R4 (5%)
