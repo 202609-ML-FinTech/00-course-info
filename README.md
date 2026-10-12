@@ -93,7 +93,7 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 
 In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to submit a paper sheet to get point.  
 
-```markdown
+
 | Week | Date | In-class exercise |
 |---|---|---|
 | 1 | 09/07 | MFS slides (design, upload to the Drive folder) |
@@ -112,7 +112,7 @@ In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to
 | 14 | 12/07 | no in-class exercise (R4 Q&A) |
 | 15 | 12/14 | no in-class exercise (homework clinic) |
 | 16 | 12/21 | Exam |
-```
+
 
 ### Replicating a paper (30%) 
 
