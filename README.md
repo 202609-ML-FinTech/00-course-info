@@ -91,6 +91,8 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 
 ### In-Class exercise (10%, 1% each)
 
+In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to submit a paper sheet to get point.  
+
 ```markdown
 | Week | Date | In-class exercise |
 |---|---|---|
