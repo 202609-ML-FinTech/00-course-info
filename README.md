@@ -53,17 +53,6 @@ Your own repository is `<STUDENTID>-<NICKNAME>`, private, in this organization.
 Start it from **[00-repo-template](https://github.com/202609-ML-FinTech/00-repo-template)**
 ("Use this template"), which gives you the folders below. Its README has the full rules.
 
-| Folder | What goes in it |
-|---|---|
-| `homework/<mmdd>/` | One folder per homework, named by the date it was assigned |
-| `in-class-exercise/<mmdd>/` | One folder per class |
-| `replicating-a-paper/data/rawdata/` | Data exactly as downloaded — never edited |
-| `replicating-a-paper/data/processed-data/` | What your code produces from rawdata |
-| `replicating-a-paper/coding/` | Notebooks and scripts |
-| `replicating-a-paper/_snapshots/` | The paper you are replicating, and its slides |
-
-The commit timestamp is your submission time. A file saved but not pushed is not submitted.
-
 ### Milestones
 
 | Milestone | Content | Due |
