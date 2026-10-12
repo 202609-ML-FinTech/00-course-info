@@ -124,4 +124,5 @@ In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to
 - R4 (5%)
 - Cold calls presentations (5%) 
 
+### Exam (50%)
 
