@@ -64,7 +64,7 @@ Start it from **[00-repo-template](https://github.com/202609-ML-FinTech/00-repo-
 
 ### Data
 
-- **[wrds-guide.md](wrds-guide.md)** — how to get an NYCU WRDS account and download data (CRSP, Compustat and more). Apply early: R2 is due 10/19.
+- **[WRDS guide](https://github.com/FIMA-Lab/00-research-toolkit/blob/main/WRDS-claude.md)** (FIMA Lab research toolkit) — get an NYCU WRDS account, download data, query from Python, licence rules, and what to do when your data is not on WRDS. Taiwan data: [TEJ guide](https://github.com/FIMA-Lab/00-research-toolkit/blob/main/TEJ-teng.md). Apply early: R2 is due 10/19.
 
 ### Templates
 
