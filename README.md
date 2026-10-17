@@ -91,7 +91,7 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 
 ### In-Class exercise (10%, 1% each)
 
-In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to submit a paper sheet to get point.  
+In-class exercises are done in pairs and due **by 12:10 on the lecture day**. Each pair hands in one paper sheet: it is the graded part and your attendance record.
 
 
 | Week | Date | In-class exercise |
@@ -117,7 +117,7 @@ In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to
 ### Replicating a paper (30%) 
 
 - MFS (3%)
-- Fitness of the paper (2%): Ranking (35%), Finance (35%), Machine Learinng (30%) 
+- Fitness of the paper (2%): Ranking (35%), Finance (35%), Machine Learning (30%) 
 - R1 (5%): Manuscript (25%), Slides (25%), title, abstract, keywords, JEL codes, Motivations  
 - R2 (5%)
 - R3 (5%)
@@ -126,3 +126,7 @@ In-Class exercise is due **by 12:10 at the lecture date**. Together, you need to
 
 ### Exam (50%)
 
+- Mon **12/21**, in class, 80 minutes.
+- 24 multiple-choice questions, five options each, two to four correct. Choose all correct options; each option is scored, so a partly right answer earns partial credit.
+- Covers Ch2–8 and Ch12; Ch10 conceptual only.
+- One A4 formula sheet allowed.
