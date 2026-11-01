@@ -91,7 +91,7 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 
 ### In-Class exercise (10%, 1% each)
 
-In-class exercises are done in pairs and due **by 12:10 on the lecture day**. Each pair hands in one paper sheet: it is the graded part and your attendance record.
+In-class exercises are due **by 12:10 on the lecture day**. Each pair hands in one paper sheet. Hand it in and you get full credit for that exercise: the point is to think in class.
 
 
 | Week | Date | In-class exercise |
