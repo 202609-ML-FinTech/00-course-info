@@ -86,8 +86,8 @@ Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**
 - Week 10 (11/09): **[homework/HW-1109.md](homework/HW-1109.md)** — due 11/16 23:59.
 - Week 11 (11/16): **[homework/HW-1116.md](homework/HW-1116.md)** — due 11/23 23:59.
 - Week 12 (11/23): **[homework/HW-1123.md](homework/HW-1123.md)** — due 11/30 23:59.
-- Week 13 (11/30): **[homework/HW-1130.md](homework/HW-1130.md)** — due 12/07 23:59.
 - Week 14 (12/07): **[homework/HW-1207.md](homework/HW-1207.md)** — due 12/14 23:59.
+- Week 15 (12/14): **[homework/HW-1214.md](homework/HW-1214.md)** — due 12/21 23:59.
 
 ### In-Class exercise (10%, 1% each)
 
@@ -105,14 +105,22 @@ In-class exercises are due **by 12:10 on the lecture day**. Each pair hands in o
 | 7 | 10/19 | IC-1019: Approve this card? |
 | 8 | 10/26 | no class (光復節補假) |
 | 9 | 11/02 | IC-1102: Which cutoff? |
-| 10 | 11/09 | IC-1109: Logistic or LDA? |
-| 11 | 11/16 | IC-1116: Is the backtest honest? |
-| 12 | 11/23 | IC-1123: Which of 40 factors do we keep? |
-| 13 | 11/30 | IC-1130: Explain the rejection |
-| 14 | 12/07 | no in-class exercise (R4 Q&A) |
-| 15 | 12/14 | no in-class exercise (homework clinic) |
+| 10 | 11/09 | case-study-1109: Logistic or LDA? |
+| 11 | 11/16 | case-study-1116: Is the backtest honest? Which of 40 factors do we keep? |
+| 12 | 11/23 | case-study-1123: Explain the rejection |
+| 13 | 11/30 | no class: watch your 10 assigned videos and submit feedback |
+| 14 | 12/07 | case-study-1207: A tree, a forest or boosting? |
+| 15 | 12/14 | case-study-1214: Does the network earn its complexity? |
 | 16 | 12/21 | Exam |
 
+
+### Videos: no class on 11/30
+
+Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germany, so there is no class on Mon **11/30**.
+
+1. Make a **5-minute video**. Show your face in the video.
+2. Submit your **YouTube link** by Mon **11/23, 13:59**.
+3. You will be assigned **10 videos** to watch. During the class time on 11/30, watch them and submit your feedback on these 10 videos.
 
 ### Replicating a paper (30%) 
 
