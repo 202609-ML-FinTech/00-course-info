@@ -114,13 +114,20 @@ In-class exercises are due **by 12:10 on the lecture day**. Each pair hands in o
 | 16 | 12/21 | Exam |
 
 
-### Videos: no class on 11/30
+### Video presentation (5%): no class on 11/30
 
-Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germany, so there is no class on Mon **11/30**.
+Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germany. There is no class on Mon **11/30**, and you do not need to come to the classroom. You still work on that day.
 
-1. Make a **5-minute video**. Show your face in the video.
-2. Submit your **YouTube link** by Mon **11/23, 13:59**.
-3. You will be assigned **10 videos** to watch. During the class time on 11/30, watch them and submit your feedback on these 10 videos.
+**Your video.** Use your slides to present your understanding of the paper you are replicating, in **10–15 minutes**. Show your face. Cover:
+
+1. Motivation
+2. Data
+3. Benchmark and experiment design
+4. Conclusion
+
+**Submit by Mon 11/23, 13:59.** Upload the video to YouTube and add the link to the `README.md` of your own repository. That is your submission. Public is best; unlisted is fine. Do not choose "private": a private YouTube video will not play for anyone else.
+
+**Feedback by Mon 11/30, 12:10.** You will be assigned **10 videos** to watch. Give your feedback on these 10 videos through the Google form announced on E3.
 
 ### Replicating a paper (30%) 
 
@@ -130,7 +137,7 @@ Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germ
 - R2 (5%)
 - R3 (5%)
 - R4 (5%)
-- Cold calls presentations (5%) 
+- Video presentation (5%)
 
 ### Exam (50%)
 
