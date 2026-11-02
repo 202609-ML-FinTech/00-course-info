@@ -15,7 +15,7 @@ Public course materials for the course.
 | Folder | Holds |
 |---|---|
 | `slides/` | Lecture slides, `yyyymmdd` prefixed |
-| `in-class-exercise/` | In-class exercise worksheets and their data |
+| `in-class-exercise/` | Case-study notebooks and their data |
 | `homework/` | Homework assignments, `HW-mmdd.md` |
 | `python-cheatsheets/` | Python, NumPy and pandas cheat sheets |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
@@ -76,45 +76,42 @@ Start it from **[00-repo-template](https://github.com/202609-ML-FinTech/00-repo-
 
 ### Homework (10%, 1% each)
 
-Homework is assigned weekly and is due **7 days after it is assigned, at 23:59**.
+Each homework is due **7 days after it is assigned, at 23:59** (14 days when a holiday falls between). There are 10.
 
-- Week 2 (09/14): **[homework/HW-0914.md](homework/HW-0914.md)** — due 09/21 23:59.
-- Week 3 (09/21): **[homework/HW-0921.md](homework/HW-0921.md)** — due 09/28 23:59.
-- Week 6 (10/12): **[homework/HW-1012.md](homework/HW-1012.md)** — due 10/19 23:59.
-- Week 7 (10/19): **[homework/HW-1019.md](homework/HW-1019.md)** — due 11/02 23:59.
-- Week 9 (11/02): **[homework/HW-1102.md](homework/HW-1102.md)** — due 11/09 23:59.
-- Week 10 (11/09): **[homework/HW-1109.md](homework/HW-1109.md)** — due 11/16 23:59.
-- Week 11 (11/16): **[homework/HW-1116.md](homework/HW-1116.md)** — due 11/23 23:59.
-- Week 12 (11/23): **[homework/HW-1123.md](homework/HW-1123.md)** — due 11/30 23:59.
-- Week 14 (12/07): **[homework/HW-1207.md](homework/HW-1207.md)** — due 12/14 23:59.
-- Week 15 (12/14): **[homework/HW-1214.md](homework/HW-1214.md)** — due 12/21 23:59.
+| # | Assigned | Homework | ISLP exercises | Due |
+|---|---|---|---|---|
+| 1 | 09/14 | [HW-0914](homework/HW-0914.md) | Ch2 Q2, Q3, Q7 and more (see file) | 09/21 |
+| 2 | 09/21 | [HW-0921](homework/HW-0921.md) | see file | 09/28 |
+| 3 | 10/12 | [HW-1012](homework/HW-1012.md) | Ch12 Q10; Ch3 Q9, Q15 | 10/19 |
+| 4 | 10/19 | [HW-1019](homework/HW-1019.md) | Ch4 Q6, Q9 | 11/02 |
+| 5 | 11/02 | [HW-1102](homework/HW-1102.md) | Ch4 Q12, Q13(a–d) | 11/09 |
+| 6 | 11/09 | [HW-1109](homework/HW-1109.md) | Ch4 Q13(e–j), Q14, Q15 | 11/16 |
+| 7 | 11/16 | [HW-1116](homework/HW-1116.md) | Ch5 Q8, Q9; Ch6 Q8, Q9(a–d) | 11/23 |
+| 8 | 11/23 | [HW-1123](homework/HW-1123.md) | Ch7 Q6; Ch8 Q4 | 11/30 |
+| 9 | 12/07 | [HW-1207](homework/HW-1207.md) | Ch8 Q8 | 12/14 |
+| 10 | 12/14 | [HW-1214](homework/HW-1214.md) | Ch10 Q1, Q6 | 12/21 |
 
-### In-Class exercise (10%, 1% each)
+### Case study (11%, 1% each)
 
-In-class exercises are due **by 12:10 on the lecture day**. Each pair hands in one paper sheet. Hand it in and you get full credit for that exercise: the point is to think in class.
+Case studies (previously called in-class exercises) are due **by 12:10 on the lecture day**. Each pair hands in one paper sheet. Hand it in and you get full credit for that case study: the point is to think in class. There are 11.
 
-
-| Week | Date | In-class exercise |
+| # | Date | Case study |
 |---|---|---|
-| 1 | 09/07 | MFS slides (design, upload to the Drive folder) |
-| 2 | 09/14 | IC-0914: Python & EDA on the credit-default data, two parts |
-| 3 | 09/21 | IC-0921: How diversified is your client, really? |
-| 4 | 09/28 | no class (教師節) |
-| 5 | 10/05 | IC-1005: Is this portfolio really two bets? |
-| 6 | 10/12 | IC-1012: Is the manager's alpha real? |
-| 7 | 10/19 | IC-1019: Approve this card? |
-| 8 | 10/26 | no class (光復節補假) |
-| 9 | 11/02 | IC-1102: Which cutoff? |
-| 10 | 11/09 | case-study-1109: Logistic or LDA? |
-| 11 | 11/16 | case-study-1116: Is the backtest honest? Which of 40 factors do we keep? |
-| 12 | 11/23 | case-study-1123: Explain the rejection |
-| 13 | 11/30 | no class: watch your 10 assigned videos and submit feedback |
-| 14 | 12/07 | case-study-1207: A tree, a forest or boosting? |
-| 15 | 12/14 | case-study-1214: Does the network earn its complexity? |
-| 16 | 12/21 | Exam |
+| 1 | 09/14 | Python & EDA on the credit-default data |
+| 2 | 09/21 | How diversified is your client, really? |
+| 3 | 10/05 | Is this portfolio really two bets? |
+| 4 | 10/12 | Is the manager's alpha real? |
+| 5 | 10/19 | Approve this card? |
+| 6 | 11/02 | Two categories, then three |
+| 7 | 11/09 | Logistic or LDA? |
+| 8 | 11/16 | Is the backtest honest? Which of 40 factors do we keep? |
+| 9 | 11/23 | Explain the rejection |
+| 10 | 12/07 | A tree, a forest or boosting? |
+| 11 | 12/14 | Does the network earn its complexity? |
 
+No case study on 09/28, 10/26 and 11/30 (no class), or on 12/21 (exam).
 
-### Video presentation (5%): no class on 11/30
+### Video presentation (4%): no class on 11/30
 
 Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germany. There is no class on Mon **11/30**, and you do not need to come to the classroom. You still work on that day.
 
@@ -129,7 +126,7 @@ Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germ
 
 **Feedback by Mon 11/30, 12:10.** You will be assigned **10 videos** to watch. Give your feedback on these 10 videos through the Google form announced on E3.
 
-### Replicating a paper (30%) 
+### Replicating a paper (29%) 
 
 - MFS (3%)
 - Fitness of the paper (2%): Ranking (35%), Finance (35%), Machine Learning (30%) 
@@ -137,7 +134,7 @@ Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germ
 - R2 (5%)
 - R3 (5%)
 - R4 (5%)
-- Video presentation (5%)
+- Video presentation (4%)
 
 ### Exam (50%)
 
