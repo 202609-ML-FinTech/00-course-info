@@ -80,8 +80,8 @@ Each homework is due **7 days after it is assigned, at 23:59** (14 days when a h
 
 | # | Assigned | Homework | ISLP exercises | Due |
 |---|---|---|---|---|
-| 1 | 09/14 | [HW-0914](homework/HW-0914.md) | Ch2 Q2, Q3, Q7 and more (see file) | 09/21 |
-| 2 | 09/21 | [HW-0921](homework/HW-0921.md) | see file | 09/28 |
+| 1 | 09/14 | [HW-0914](homework/HW-0914.md) | Ch2 Q2, Q3, Q7, Q8 | 09/21 |
+| 2 | 09/21 | [HW-0921](homework/HW-0921.md) | Ch12 Q2, Q3 | 09/28 |
 | 3 | 10/12 | [HW-1012](homework/HW-1012.md) | Ch12 Q10; Ch3 Q9, Q15 | 10/19 |
 | 4 | 10/19 | [HW-1019](homework/HW-1019.md) | Ch4 Q6, Q9 | 11/02 |
 | 5 | 11/02 | [HW-1102](homework/HW-1102.md) | Ch4 Q12, Q13(a–d) | 11/09 |
