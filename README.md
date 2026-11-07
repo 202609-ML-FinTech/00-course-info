@@ -115,16 +115,18 @@ No case study on 09/28, 10/26 and 11/30 (no class), or on 12/21 (exam).
 
 Prof. Teng will be at a conference at the European Central Bank, Frankfurt, Germany. There is no class on Mon **11/30**, and you do not need to come to the classroom. You still work on that day.
 
-**Your video.** Use your slides to present your understanding of the paper you are replicating, in **10–15 minutes**. Show your face. Cover:
+**Your video.** Use your slides to present your understanding of the paper you are replicating, in **about 10 minutes**. Show your face on camera. Cover:
 
 1. Motivation
 2. Data
 3. Benchmark and experiment design
 4. Conclusion
 
-**Submit by Mon 11/23, 13:59.** Upload the video to YouTube and add the link to the `README.md` of your own repository. That is your submission. Public is best; unlisted is fine. Do not choose "private": a private YouTube video will not play for anyone else.
+**Submit by Sun 11/23, 23:59.** Upload the video to your YouTube channel or your own cloud (e.g. Google Drive), and add the link to the `README.md` of your own repository. That is your submission. Make sure anyone with the link can watch it: on YouTube choose public or unlisted, not "private"; on Google Drive set sharing to "anyone with the link".
 
-**Feedback by Mon 11/30, 12:10.** You will be assigned **10 videos** to watch. Give your feedback on these 10 videos through the Google form announced on E3.
+**Your review list by Mon 11/30, 09:00.** You will be assigned **5 classmates' videos** and a Google form link for your comments.
+
+**Reviews by Mon 11/30, 12:00.** Give your comments on all 5 videos in the Google form.
 
 ### Replicating a paper (29%) 
 
