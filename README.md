@@ -20,6 +20,8 @@ Public course materials for the course.
 | `python-cheatsheets/` | Python, NumPy and pandas cheat sheets |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
 
+Latest slides: **[11/09 — Ch04 LDA and QDA](slides/20261109-ml-ch04-DA.pdf)**.
+
 
 ## Textbook
 
