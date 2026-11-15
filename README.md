@@ -10,6 +10,7 @@ Public course materials for the course.
 - Syllabus and grading: **[202609-Machine-Learning-and-FinTech](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=537707&lang=en-us)**.
 - Student repositories live in this same organization, one per student, named `<STUDENTID>-<NICKNAME>`: 
 - See **[list-of-repo.md](list-of-repo.md)**.
+- **[list-artifacts.md](list-artifacts.md)** — interactive pages, in English and 中文 (e.g., [A History of Statistical Learning](https://claude.ai/artifact/Xa24K2xafUUiEn5sHinL8i)).
 
 
 | Folder | Holds |
