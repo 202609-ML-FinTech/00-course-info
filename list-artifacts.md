@@ -10,3 +10,4 @@ Comments on any page: [one-minute form / 意見表](https://docs.google.com/form
 
 - ✅ A History of Statistical Learning / 統計學習簡史 — [open the page](https://claude.ai/artifact/Xa24K2xafUUiEn5sHinL8i)
   - Every method in the book, from least squares (1805) to double descent (2019), by era; filter by chapter.
+  - Each chapter: its one-line idea and a metaphor (科普). Portraits of the researchers (Wikimedia Commons, credited on the page). Updated 2026-11-15.
