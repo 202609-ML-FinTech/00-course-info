@@ -20,6 +20,7 @@ Each page: every method of the chapter on the timeline, with its purpose, the ex
 - ✅ Ch 3 Linear regression — [open](https://claude.ai/artifact/6MvxgBVV6wPZNm488TXvRQ)
 - ✅ Ch 4 Classification — [open](https://claude.ai/artifact/Vr154eY511r38LNjEte81w)
 - ✅ Ch 5 Resampling methods — [open](https://claude.ai/artifact/CyLp3LCWsE1PomSYuHvv5n)
+  - ✅ Deeper: the bootstrap — Efron's papers and the theorems behind it / 拔靴法理論 — [open](https://claude.ai/artifact/1qLLMsa42CSpkwyaCsYDUS)
 - ✅ Ch 6 Model selection and regularization — [open](https://claude.ai/artifact/VkayfU3E6VhgoriwEwKf7M)
 - ✅ Ch 7 Moving beyond linearity — [open](https://claude.ai/artifact/WCE4kvJfpJhcLt9hhAU1D7)
 - ✅ Ch 8 Tree-based methods — [open](https://claude.ai/artifact/Ekfw2fZUfbttwUL9oqiSKC)
