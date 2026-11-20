@@ -23,6 +23,7 @@ Each page: every method of the chapter on the timeline, with its purpose, the ex
   - ✅ Deeper: the bootstrap — Efron's papers and the theorems behind it / 拔靴法理論 — [open](https://claude.ai/artifact/1qLLMsa42CSpkwyaCsYDUS)
 - ✅ Ch 6 Model selection and regularization — [open](https://claude.ai/artifact/VkayfU3E6VhgoriwEwKf7M)
 - ✅ Ch 7 Moving beyond linearity — [open](https://claude.ai/artifact/WCE4kvJfpJhcLt9hhAU1D7)
+  - ✅ Play: perfect fits — turn up the model complexity (polynomial, step function, neural network) / 完美配適遊樂場 — [open](https://claude.ai/artifact/FsxSxkVethcwcKtuRvqzi1)
 - ✅ Ch 8 Tree-based methods — [open](https://claude.ai/artifact/Ekfw2fZUfbttwUL9oqiSKC)
 - ✅ Ch 9 Support vector machines — [open](https://claude.ai/artifact/4XeLHAjwzdxeNJemi5LKvd)
 - ✅ Ch 10 Deep learning — [open](https://claude.ai/artifact/CY7fbBPMyYwTtmRvQGYygR)
