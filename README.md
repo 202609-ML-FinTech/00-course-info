@@ -21,7 +21,7 @@ Public course materials for the course.
 | `python-cheatsheets/` | Python, NumPy and pandas cheat sheets |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
 
-Latest slides: **[11/16 — Ch05 Resampling Methods](slides/20261116-ml-ch05-resampling-methods.pdf)**.
+Latest slides: **[11/23 — Ch07 Moving Beyond Linearity](slides/20261123-ml-ch07-moving-beyond-linearity.pdf)** and **[11/23 — Ch08 Tree-Based Methods](slides/20261123-ml-ch08-tree-based-methods.pdf)**.
 
 
 ## Textbook
