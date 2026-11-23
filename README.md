@@ -96,7 +96,7 @@ Each homework is due **7 days after it is assigned, at 23:59** (14 days when a h
 
 ### Case study (11%, 1% each)
 
-Case studies (previously called in-class exercises) are due **by 12:10 on the lecture day**. Each pair hands in one paper sheet. Hand it in and you get full credit for that case study: the point is to think in class. There are 11.
+Case studies (previously called in-class exercises) are due **by 12:10 on the lecture day**. Each pair hands in one paper sheet. Hand it in and you get full credit for that case study: the point is to think in class. There are 10.
 
 | # | Date | Case study |
 |---|---|---|
@@ -108,11 +108,10 @@ Case studies (previously called in-class exercises) are due **by 12:10 on the le
 | 6 | 11/02 | Two categories, then three |
 | 7 | 11/09 | Logistic or LDA? |
 | 8 | 11/16 | Is the backtest honest? Which of 40 factors do we keep? |
-| 9 | 11/23 | Explain the rejection |
-| 10 | 12/07 | A tree, a forest or boosting? |
-| 11 | 12/14 | Does the network earn its complexity? |
+| 9 | 12/07 | A tree, a forest or boosting? |
+| 10 | 12/14 | Does the network earn its complexity? |
 
-No case study on 09/28, 10/26 and 11/30 (no class), or on 12/21 (exam).
+No case study on 09/28, 10/26 and 11/30 (no class), on 11/23 (no time), or on 12/21 (exam).
 
 ### Video presentation (4%): no class on 11/30
 
